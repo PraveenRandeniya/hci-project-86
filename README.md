@@ -7,7 +7,6 @@
 
 > Transform your home with ELMORA - Where luxury meets innovation in furniture shopping. Experience our handpicked collection in immersive 3D, bringing your dream space to life.
 
-![ELMORA Banner](path/to/banner.png)
 
 ## ✨ Key Features
 
