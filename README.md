@@ -61,7 +61,7 @@ Visit `http://localhost:5173` to experience ELMORA.
 
  📁 Project Structure
 
-
+```
 src/
 ├── components/          # Core components
 │   ├── layout/         # Layout and structure
@@ -77,7 +77,7 @@ src/
 └── assets/           # Static resources
     ├── models/       # 3D furniture models
     └── images/       # Product images
-
+```
 
 🔨 Development
 
